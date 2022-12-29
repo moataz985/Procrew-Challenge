@@ -1,6 +1,6 @@
-# ReactJS, Firebase, and Tailwind Website
+# ReactJS, Firebase, and Tailwind Food Delivery Website
 
-Welcome to the GitHub repository for a website built using ReactJS, Firebase, and Tailwind!
+Welcome to the GitHub repository for this website created by me as part of the technical challenge for ProCrew's interview
 
 # Getting Started
 
